@@ -1,0 +1,24 @@
+#menu{
+    text-align: center;
+}
+
+#boite_centrale{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    flex-direction: row;
+}
+#boite_texte{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    flex-direction: row;
+}
+#premier_texte{
+    margin: 2%;
+    display: flex;
+}
+#deuxieme_texte{
+    margin: 2%;
+    display: flex;
+}
